@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **Portfolio Project**
 
-- 📫 How to reach me **ashish9625nauty@gmail.com**
+- 📫 How to reach me **nauty9625ashish@gmail.com**
 - **Contact Me on Twitter :-  https://twitter.com/Nauty9625Ashish**
 - **Contact Me on LinkedIn :- https://www.linkedin.com/in/ashish-nautiyal-1445292b0/**
 
