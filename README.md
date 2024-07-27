@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Full Stack Development With System Design**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking for **Full Time Job Role** and **Industry Experience**
 
 - 🤝 I’m looking for help with **Portfolio Project**
 
