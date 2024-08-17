@@ -14,11 +14,11 @@
 ---
 
 - 😄 **Pronouns:** He/Him
-- 🌱 **Currently Learning:** Full Stack Development with System Design
+- 🌱 **Skilled At:** Full Stack Development with System Design
 - 👯 **Looking for:** Full-Time Job Role & Industry Experience
-- 🤝 **Seeking Help With:** Portfolio Project
+- 🤝 **Seeking Help With:** Portfolio Project & Creating My Own Digital Web Service Agency 
 - 📫 **Reach Me At:** [nauty9625ashish@gmail.com](mailto:nauty9625ashish@gmail.com)
-- ⚡ **Fun Fact:** I'm a very spiritual person and want to find moksha
+- ⚡ **Fun Fact:** I'm a very spiritual person and want to find moksha 
 
 ---
 
@@ -94,4 +94,3 @@
 
 ---
 
-Feel free to customize further as per your preference!
